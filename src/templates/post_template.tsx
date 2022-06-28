@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import Template from 'components/Common/Template'
 import { PostFrontmatterType } from 'types/PostItem.types'
 import PostHead from 'components/Post/PostHead'
+import PostContent from 'components/Post/PostContent'
 
 export type PostPageItemType = {
   node: {
@@ -46,6 +47,7 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = function ({
         categories={categories}
         thumbnail={gatsbyImageData}
       />
+      <PostContent html={html} />
     </Template>
   )
 }
