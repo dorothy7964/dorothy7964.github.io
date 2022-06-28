@@ -3,6 +3,7 @@ module.exports = {
     title: `우아미의 개발 블로그`,
     description: `오늘 배운건 오늘 적자! 우아미의 TIL 입니다.`,
     author: `Ami`,
+    siteUrl: 'https://dorothy7964.github.io',
   },
   plugins: [
     {
