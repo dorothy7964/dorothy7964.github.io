@@ -8,6 +8,11 @@
 
      http://localhost:8000/___graphql
 
+## 🚀 build + deploy
+
+     yarn build
+     yarn deploy
+
 ## 💫 Deploy
 
     yarn develop
