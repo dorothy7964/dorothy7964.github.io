@@ -81,5 +81,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-image`,
+    {
+      resolve: 'gatsby-plugin-canonical-urls',
+      options: {
+        siteUrl: 'https://dorothy7964.github.io',
+        stripQueryString: true,
+      },
+    },
   ],
 }
