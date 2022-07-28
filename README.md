@@ -16,3 +16,8 @@
 ## 💫 Deploy
 
     yarn develop
+
+## 💫 branches
+
+    default : React 기반 Gatsby로 기술 블로그 개발하기 기본틀
+    develop : 개인 블로그
