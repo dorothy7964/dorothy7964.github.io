@@ -1,4 +1,4 @@
-import Template from 'components/Common/Template'
+import Template from 'components/common/Template'
 import CategoryList, { CategoryListProps } from 'components/Main/CategoryList'
 import Introduction from 'components/Main/Introduction'
 import PostList from 'components/Main/PostList'
