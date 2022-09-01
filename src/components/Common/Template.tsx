@@ -1,6 +1,6 @@
 import styled from '@emotion/styled'
-import Footer from 'components/Common/Footer'
-import GlobalStyle from 'components/Common/GlobalStyle'
+import Footer from 'components/common/Footer'
+import GlobalStyle from 'components/common/GlobalStyle'
 import { FunctionComponent, ReactNode } from 'react'
 import { Helmet } from 'react-helmet'
 
