@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwamblog_github_io=self.webpackChunkwamblog_github_io||[]).push([[977],{4466:function(t,a,i){i.r(a);var e=i(3431);a.default=function(t){var a=t.data.site.siteMetadata,i=a.title,u=a.description,n=a.author;return(0,e.tZ)("div",null,i," ",u," ",n)}}}]);
+//# sourceMappingURL=component---src-pages-info-tsx-6c0f48c6991ae32e996f.js.map
